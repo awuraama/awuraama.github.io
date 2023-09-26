@@ -13,11 +13,12 @@ body{
     display: none; 
 } */
 #intro{
-    height: 200px;
+    height: 500px;
     padding-top: 4%;
     background-color: #05294b;
 }
 #intro h2{
+    margin-top: +160px;
     font-size: 40px;
     /* text-shadow: 3px 3px #4376b9; */
 }
